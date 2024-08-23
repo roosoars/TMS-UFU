@@ -1,1 +1,0 @@
-- O comando --amend serve para você que esqueceu de coloca um arquivo ou quer editar alguma coisinha tu vai edita e depois mete um pushzinho pra ir pro githubzinho
