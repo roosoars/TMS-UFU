@@ -4,10 +4,16 @@
 
 > Aluno: Rodrigo Soares Pinheiro 
 
-> Atividades GIT/MERGE/TAGs/COMMITs/PULLs - Realizadas localmente/sala
+### Atividades:
 
-> Primeiro Artigo - OK
+> Atividades GIT: MERGE/TAGs/COMMITs/PULLs realizadas em sala/local <img src="confirm.gif" width="20"/>
+
+> Atividades Teste: 
+
+### Trabalhos/Partipação:
+
+> Primeiro Artigo <img src="confirm.gif" width="20"/>
 
 > Primeiro Workshop - Em Desenvolvimento
 
-> Debates sobre os temas, partipacão em sala/perguntas - Até 10/09 OK
+> Partipacão em sala/perguntas até a data 10/09 <img src="confirm.gif" width="20"/>
