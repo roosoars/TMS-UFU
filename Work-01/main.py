@@ -1,4 +1,4 @@
 def welcome():
-    print("Hello Class")
+    print("Hello Group")
 
 welcome()
