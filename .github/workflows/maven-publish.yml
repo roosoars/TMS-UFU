@@ -22,9 +22,9 @@ jobs:
           distribution: 'temurin'
           java-version: '11'
 
-      # Adiciona um passo para navegar até a pasta onde está o código e o pom.xml
-      - name: Navigate to project folder
-        run: cd x
+      # # Adiciona um passo para navegar até a pasta onde está o código e o pom.xml
+      # - name: Navigate to project folder
+      #   run: cd x
 
       # Rodar o Maven para compilar o projeto
       - name: Build with Maven
