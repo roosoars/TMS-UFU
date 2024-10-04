@@ -22,8 +22,14 @@ jobs:
           distribution: 'temurin'
           java-version: '11'
 
-      - name: Build with Maven
-        run: mvn clean install
+      # Adiciona um passo para navegar até a pasta onde está o código e o pom.xml
+      - name: Navigate to project folder
+        run: cd x
 
+      # Rodar o Maven para compilar o projeto
+      - name: Build with Maven
+        run: cd Seminarios/Seminario\ 02/exemple && mvn clean install
+
+      # Rodar os testes do Maven
       - name: Run tests with Maven
-        run: mvn test
+        run: cd Seminarios/Seminario\ 02/exemple && mvn test
