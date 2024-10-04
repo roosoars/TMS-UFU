@@ -8,6 +8,9 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Main main = new Main();
+        int resultado = main.soma(2, 8);
+        System.out.println("Resultado da soma: " + resultado);
+
     }
 }
