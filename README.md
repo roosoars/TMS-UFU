@@ -16,6 +16,8 @@
 
 > Primeiro Workshop - Em Desenvolvimento
 
+> Primeiro Workshop - Concluido com Sucesso e Apresentado <img src="confirm.gif" width="20"/>
+
 > Partipacão em sala/perguntas até a data 10/09 <img src="confirm.gif" width="20"/>
 
 > Desenvolvimento do segundo artigo iniciado dia  04/10
