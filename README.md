@@ -21,5 +21,7 @@
 > Partipacão em sala/perguntas até a data 10/09 <img src="confirm.gif" width="20"/>
 
 > Desenvolvimento do segundo artigo/seminario iniciado dia  04/10
+
 > Desenvolvido teste para um exemplo a ser mostrado no seminario <img src="confirm.gif" width="20"/>
+
 > Adicionado GitHub Actions, para automatizar build/testes no exemplo/teste acima a cada commit/push no repositório <img src="confirm.gif" width="20"/>
