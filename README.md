@@ -18,10 +18,12 @@
 
 > Primeiro Workshop - Concluido com Sucesso e Apresentado <img src="confirm.gif" width="20"/>
 
-> Partipacão em sala/perguntas até a data 10/09 <img src="confirm.gif" width="20"/>
+> Partipacão em sala/perguntas até a data 11 de outubro <img src="confirm.gif" width="20"/>
 
-> Desenvolvimento do segundo artigo/seminario iniciado dia  04/10
+> Desenvolvimento do segundo artigo/seminario iniciado dia  04 de outubro
 
 > Desenvolvido teste para um exemplo a ser mostrado no seminario <img src="confirm.gif" width="20"/>
 
 > Adicionado GitHub Actions, para automatizar build/testes no exemplo/teste acima a cada commit/push no repositório <img src="confirm.gif" width="20"/>
+
+> Desenvolvimento do segundo artigo/seminario concluido em 10 de outubro <img src="confirm.gif" width="20"/>
