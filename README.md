@@ -29,7 +29,6 @@ Atividade 1: Pesquisa de Decorador: Memoization
 Primeiro Artigo </br>
 
 Primeiro Workshop - Em Desenvolvimento </br>
-
 Primeiro Workshop - Concluido com Sucesso e Apresentado </br> </br> </br>
 
 
