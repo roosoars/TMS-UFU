@@ -32,7 +32,6 @@ Primeiro Workshop - Em Desenvolvimento </br>
 Primeiro Workshop - Concluido com Sucesso e Apresentado </br> </br> </br>
 
 
-
 Desenvolvimento do segundo artigo iniciado dia  04 de outubro </br>
 Desenvolvimento do segundo artigo concluido em 10 de outubro </br> </br> </br>
 
