@@ -4,26 +4,39 @@
 
 > Aluno: Rodrigo Soares Pinheiro 
 
-### Atividades:
+# Atividades:
 
-> Atividades GIT: MERGE/TAGs/COMMITs/PULLs realizadas em sala/local <img src="confirm.gif" width="20"/>
+#### Atividades realizadas para o Workshop - Testes Unitários
+Atividade 1: Pesquisa de Decorador: Memoization
 
-> Atividades Teste: 
+#### Implementação em Python com Testes Parametrizados
 
-### Trabalhos/Partipação:
+2.1 -  Função de Divisão </br>
 
-> Primeiro Artigo <img src="confirm.gif" width="20"/>
+2.1.1 - Testes com Pytest
 
-> Primeiro Workshop - Em Desenvolvimento
+#### Implementação em JavaScript com Testes
 
-> Primeiro Workshop - Concluido com Sucesso e Apresentado <img src="confirm.gif" width="20"/>
+2.2 - Função de Divisão </br>
+
+2.2.1 - Testes com Jest
+
+
+
+
+# Trabalhos/Partipação:
+
+Primeiro Artigo </br>
+
+Primeiro Workshop - Em Desenvolvimento </br>
+
+Primeiro Workshop - Concluido com Sucesso e Apresentado </br> </br> </br>
+
+
+
+Desenvolvimento do segundo artigo iniciado dia  04 de outubro </br>
+Desenvolvimento do segundo artigo concluido em 10 de outubro </br> </br> </br>
+
+
 
 > Partipacão em sala/perguntas até a data 11 de outubro <img src="confirm.gif" width="20"/>
-
-> Desenvolvimento do segundo artigo/seminario iniciado dia  04 de outubro
-
-> Desenvolvido teste para um exemplo a ser mostrado no seminario <img src="confirm.gif" width="20"/>
-
-> Adicionado GitHub Actions, para automatizar build/testes no exemplo/teste acima a cada commit/push no repositório <img src="confirm.gif" width="20"/>
-
-> Desenvolvimento do segundo artigo/seminario concluido em 10 de outubro <img src="confirm.gif" width="20"/>
