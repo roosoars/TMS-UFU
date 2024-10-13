@@ -29,12 +29,10 @@ Atividade 1: Pesquisa de Decorador: Memoization
 Primeiro Artigo </br>
 
 Primeiro Workshop - Em Desenvolvimento </br>
-Primeiro Workshop - Concluido com Sucesso e Apresentado </br> </br> </br>
-
+Primeiro Workshop - Concluido com Sucesso e Apresentado </br> </br>
 
 Desenvolvimento do segundo artigo iniciado dia  04 de outubro </br>
-Desenvolvimento do segundo artigo concluido em 10 de outubro </br> </br> </br>
-
+Desenvolvimento do segundo artigo concluido em 10 de outubro </br> </br>
 
 
 > Partipacão em sala/perguntas até a data 11 de outubro <img src="confirm.gif" width="20"/>
