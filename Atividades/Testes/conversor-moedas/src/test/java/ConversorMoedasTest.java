@@ -5,7 +5,10 @@ import static org.mockito.Mockito.*;
 
 import org.junit.jupiter.api.Test;
 
-public class ConversorMoedasTest {
+import main.java.com.conversor.ConversorMoedas;
+import main.java.com.conversor.TaxaCambioProvider;
+
+public class ConversorMoedasTest  {
 
     @Test
     public void deveConverterUSDParaBRL() {
