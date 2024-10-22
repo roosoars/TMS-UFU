@@ -1,0 +1,5 @@
+com/conversor/InterfaceUsuario.class
+com/conversor/TaxaCambioProvider.class
+com/conversor/Moeda.class
+com/conversor/MoedaNaoSuportadaException.class
+com/conversor/ConversorMoedas.class
