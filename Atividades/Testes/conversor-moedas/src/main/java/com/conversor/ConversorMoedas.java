@@ -1,4 +1,4 @@
-package main.java.com.conversor;
+package com.conversor;
 
 public class ConversorMoedas {
     private final TaxaCambioProvider taxaCambioProvider;

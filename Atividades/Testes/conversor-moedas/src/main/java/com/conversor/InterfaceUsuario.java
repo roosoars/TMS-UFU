@@ -1,4 +1,4 @@
-package main.java.com.conversor;
+package com.conversor;
 
 public class InterfaceUsuario {
     public String obterCodigoMoeda(String nomeMoeda) {

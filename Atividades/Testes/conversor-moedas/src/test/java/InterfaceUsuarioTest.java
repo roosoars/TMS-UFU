@@ -1,11 +1,9 @@
-package test.java;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import main.java.com.conversor.InterfaceUsuario;
+import com.conversor.InterfaceUsuario;
 
 
 public class InterfaceUsuarioTest {

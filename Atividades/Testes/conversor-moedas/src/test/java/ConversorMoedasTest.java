@@ -1,4 +1,3 @@
-package test.java;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
@@ -6,10 +5,10 @@ import static org.mockito.Mockito.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import main.java.com.conversor.ConversorMoedas;
-import main.java.com.conversor.InterfaceUsuario;
-import main.java.com.conversor.MoedaNaoSuportadaException;
-import main.java.com.conversor.TaxaCambioProvider;
+import com.conversor.ConversorMoedas;
+import com.conversor.InterfaceUsuario;
+import com.conversor.MoedaNaoSuportadaException;
+import com.conversor.TaxaCambioProvider;
 
 
 public class ConversorMoedasTest {

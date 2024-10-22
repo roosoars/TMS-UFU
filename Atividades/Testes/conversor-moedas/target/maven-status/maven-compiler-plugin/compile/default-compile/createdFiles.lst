@@ -1,5 +1,5 @@
-main/java/com/conversor/TaxaCambioProvider.class
-main/java/com/conversor/Moeda.class
-main/java/com/conversor/MoedaNaoSuportadaException.class
-main/java/com/conversor/ConversorMoedas.class
-main/java/com/conversor/InterfaceUsuario.class
+com/conversor/InterfaceUsuario.class
+com/conversor/TaxaCambioProvider.class
+com/conversor/Moeda.class
+com/conversor/MoedaNaoSuportadaException.class
+com/conversor/ConversorMoedas.class

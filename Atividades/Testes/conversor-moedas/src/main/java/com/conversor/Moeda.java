@@ -1,4 +1,4 @@
-package main.java.com.conversor;
+package com.conversor;
 
 public enum Moeda {
     DOLAR_AMERICANO("Dólar Americano", "USD"),
