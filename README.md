@@ -6,6 +6,20 @@
 
 # Atividades:
 
+#### Atividades GIT:
+
+- TAGs
+- Branch
+- Commit
+- Pull & Push
+- Conflitos & Resolução de Conflitos
+
+#### Atividades de teste:
+
+- Conversão (*foi utilizado mockito*)
+
+#### Atividades de refatoração:
+
 #### Atividades realizadas para o Workshop - Testes Unitários
 Atividade 1: Pesquisa de Decorador: Memoization
 
